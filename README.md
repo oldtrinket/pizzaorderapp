@@ -1,3 +1,5 @@
+STILL IN DEVELOPMENT!!!
+
 Pizza Ordering App
 
 This is a simple pizza ordering app that allows users to browse a collection of pizza flavors, select their desired toppings, choose their preferred size, and pay using Visa or Mastercard.
